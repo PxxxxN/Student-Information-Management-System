@@ -1,5 +1,5 @@
 # Student-Information-Management-System
- 基于Java实现的学生信息管理系统
+ 基于Java实现的学生信息管理系统 BY PxxxxN
 
 ## 2020.05.24
 ### 基本功能如下
